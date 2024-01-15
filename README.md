@@ -1,6 +1,6 @@
 # Bike_Buyers_Data_Analysis
 Analysis of a biker demographic dataset to extract crucial insights by addressing key questions with MS Excel and prepared a bike sales report by creating a visually 
-appealing dashboard to understand the customers to grow bike sales and enhance the business.
+appealing dashboard to understand the customers and to grow bike sales and enhance the business.
 
 ## ![Screenshot (155)](https://github.com/CoderNitu/Bike_Buyers_Data_Analysis/assets/87817227/d742c144-51d7-4484-8642-865bf991030c)
 
