@@ -29,3 +29,5 @@ appealing dashboard to understand the customers to grow bike sales and enhance t
     This is the last step where we will present a report to the client by creating a visually appealing dashboard, in our case we present a bike sales report after analyzing the 
     dataset with the help of a pivot table & pivot chart. We will also provide some crucial insights, which will help the client to understand their  customers and 
     increase their sales to enhance their business. 
+
+## https://github.com/CoderNitu/Bike_Buyers_Data_Analysis/assets/87817227/02b609c8-531e-4981-b5da-18f791714144
