@@ -1,0 +1,8 @@
+************************KEY SAMPLE QUESTIONS******************************
+
+1. Who purchased bikes more, married or single customer?
+2. Relation between gender and average income based on bike purchased.
+3. How commute distance affects the bike purchased ?
+4. Which age group contribute to maximum bike sales
+5. Relation between region and bike sales
+6. What occupation customer contribute to maximum bike sales ? ,etc
