@@ -22,7 +22,7 @@ appealing dashboard to understand the customers to grow bike sales and enhance t
     
 ## 4. DATA ANALYSIS :
 
-     We will analyze the dataset that we have by solving all the key sample questions. I will provide the questions to my project repo as "Key Questions"
+     We will analyze the dataset that we have by solving all the key sample questions. I will provide all the key questions that I used in my project repo as "Key Questions"
    
 ## 5. PRESENT THE DATA :
 
